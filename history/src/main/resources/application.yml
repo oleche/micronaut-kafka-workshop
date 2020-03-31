@@ -1,0 +1,9 @@
+---
+micronaut:
+    application:
+        name: history
+
+---
+kafka:
+    bootstrap:
+        servers: 172.17.0.3:9092
